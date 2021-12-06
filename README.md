@@ -1,1 +1,1 @@
-# node-rest-api
+# express-social-rest-api
